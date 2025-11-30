@@ -4,13 +4,6 @@
 
 This notebook serves as a practical, end-to-end example of building a sophisticated Q&A system for domain-specific documents.
 
----
-
-## Notebook
-
-The main implementation is contained within the `rag-pipeline-for-sec-filings.ipynb` notebook. You can also view and run this notebook directly on Kaggle.
-
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/snehdadhania/rag-pipeline-for-sec-filings-queries) <!-- <<<--- INSERT YOUR KAGGLE LINK HERE -->
 
 ---
 
